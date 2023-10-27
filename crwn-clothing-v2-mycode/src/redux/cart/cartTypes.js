@@ -1,0 +1,5 @@
+export const cartType = {
+  IS_CART_OPEN: "IS_CART_OPEN",
+  SET_CART_ITEM: "SET_CART_ITEM",
+  CHANGE_CART_ITEM: "CHANGE_CART_ITEM",
+};
